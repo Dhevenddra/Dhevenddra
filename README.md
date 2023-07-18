@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👩‍🎓 About
+- Learning Data Analytics.
+- Love UI UX Designing
+
+### 🌟 Personal Projects
+- [Ibaco App Concept](https://www.behance.net/gallery/173338537/Ice-cream-Shopping-App-Ibaco)
+- [Bill Ease App](https://www.behance.net/gallery/174938155/Bill-Ease-App-Case-Study)
+- [Cyclicist Data Analysis](https://github.com/Dhevenddra/Cyclicist)
+- [BellaBeat Data Analysis](https://github.com/Dhevenddra/BellaBeat)
