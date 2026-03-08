@@ -43,7 +43,7 @@ currently_building:
 interests:
   - AI/NLP pipelines
   - creative filmmaking
-  - ancient Tamil scripts (Brahmi epigraphy)
+  <!-- - ancient Tamil scripts (Brahmi epigraphy) -->
 ```
 
 > Shipping healthcare software by day. Building indie apps, AI experiments, and hackathon projects by night.
