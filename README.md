@@ -114,6 +114,35 @@ interests:
 <tr>
 <td width="50%" valign="top">
 
+### 🐾 [agentrocky-win](https://github.com/Dhevenddra/agentrocky-win)
+**Pixel-art companion that runs Claude Code on Windows**
+
+`Electron` `TypeScript` `React` `Vite`
+
+Windows port of [@itmesneha](https://github.com/itmesneha)'s macOS agentrocky. Rocky walks along your taskbar, opens a retro terminal chat when clicked, and runs Claude Code as a persistent subprocess. Faithful to the original — same character, same animation timings, same speech bubbles. The Windows-specific work was in the corners: `claude.cmd` resolution, transparent overlay quirks, stream-JSON CRLF tolerance, DPI-aware sprite rendering.
+
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Dhevenddra/agentrocky-win)
+[![Release](https://img.shields.io/badge/v0.1.0-58A6FF?style=flat-square)](https://github.com/Dhevenddra/agentrocky-win/releases)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [ClinicOS](https://clinicos-story.vercel.app/)
+**Multi-tenant clinic management SaaS**
+
+`Next.js` `TypeScript` `Supabase` `Tailwind`
+
+End-to-end practice management — patient records, appointments, billing, multi-clinic tenancy. Built end-to-end with Claude Code as the engineering pair. The story site walks through the build approach, design decisions, and what it took to ship.
+
+[![Story](https://img.shields.io/badge/Story-clinicos--story-58A6FF?style=flat-square)](https://clinicos-story.vercel.app/)
+[![App](https://img.shields.io/badge/App-181717?style=flat-square&logo=github)](https://github.com/Dhevenddra/clinicos)
+[![Site](https://img.shields.io/badge/Site-181717?style=flat-square&logo=github)](https://github.com/Dhevenddra/clinicos-website)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### ♟️ [ChessText](https://chesstext.in)
 **Real-time multiplayer chess — with text-based moves**
 
