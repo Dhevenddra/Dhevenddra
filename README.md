@@ -278,12 +278,12 @@ Android app for peer-to-peer messaging over Bluetooth and WiFi Direct. E2E encry
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhevenddra&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhevenddra&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dhevenddra&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhevenddra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhevenddra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
 
 </div>
 
